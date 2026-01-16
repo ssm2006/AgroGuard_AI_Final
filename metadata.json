@@ -1,0 +1,8 @@
+{
+  "name": "Copy of AgroGuard AI",
+  "description": "A comprehensive AI-powered Smart Agriculture Platform featuring plant disease detection, real-time weather dashboards, crop advisory, and a direct farmer-to-company marketplace.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
